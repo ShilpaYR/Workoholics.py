@@ -1,0 +1,945 @@
+HR DEPARTMENT PROCEDURES MANUAL
+
+Last Updated: January 2025
+Version: 2.8
+
+================================================================================
+SECTION 1: EMPLOYEE ONBOARDING PROCEDURES
+================================================================================
+
+1.1 PRE-BOARDING PHASE (1 Week Before Start Date)
+
+Responsibilities: HR Team
+- Send welcome email to new hire with:
+  * First day schedule and arrival time
+  * Dress code information
+  * Required documents to bring (ID, banking info, certifications)
+  * Parking/transportation information
+  * Emergency contact information
+  
+- Prepare workspace:
+  * Request desk assignment from facilities
+  * Order computer equipment from IT
+  * Request phone extension
+  * Order business cards
+  * Set up email account
+  
+- Assign onboarding buddy:
+  * Select buddy from same department
+  * Brief buddy on responsibilities
+  * Share new hire's background with buddy
+  
+- Prepare onboarding checklist and materials
+- Schedule first-week meetings and training sessions
+
+Responsibilities: Manager
+- Review new hire's resume and background
+- Prepare 30-60-90 day goals
+- Inform team of new hire's arrival
+- Plan first-week projects and assignments
+
+1.2 FIRST DAY PROCEDURES
+
+8:30 AM - HR Orientation (Conference Room A)
+- Welcome and introduction to company
+- Complete I-9 Employment Eligibility Verification
+- Complete W-4 tax withholding forms
+- Complete state tax forms
+- Benefits enrollment overview and selection
+- Sign employee handbook acknowledgment
+- Review company policies and code of conduct
+- Provide employee ID badge
+- Tour of facilities
+
+10:30 AM - IT Setup (IT Department)
+- Receive computer and equipment
+- Set up email and system accounts
+- Configure phone and voicemail
+- Review security policies and sign acceptable use agreement
+- Training on company systems and software
+
+12:00 PM - Lunch with Onboarding Buddy
+- Informal introduction to company culture
+- Tour of local lunch options
+- Answer questions in relaxed setting
+
+1:00 PM - Department Introduction (Manager's Office)
+- Introduction to team members
+- Overview of department goals and structure
+- Tour of department workspace
+- Assignment of initial projects
+- Schedule regular check-in meetings
+
+3:00 PM - First Assignments (At Desk)
+- Begin initial projects
+- Complete online training modules
+- Review department documentation
+
+4:30 PM - End of First Day Check-in (Manager)
+- Review day's activities
+- Answer questions
+- Confirm schedule for rest of week
+
+1.3 FIRST WEEK PROCEDURES
+
+Day 2:
+- Complete required compliance training (harassment prevention, safety)
+- Meet with key cross-functional team members
+- Shadow onboarding buddy
+
+Day 3:
+- Deep dive into role responsibilities with manager
+- Access to necessary systems and tools verified
+- Begin working on starter projects
+
+Day 4:
+- Meeting with department head
+- Review of 30-60-90 day goals
+- Q&A session with HR about benefits
+
+Day 5:
+- First week reflection meeting with manager
+- Confirm understanding of expectations
+- Address any concerns or questions
+- Week-end feedback session
+
+1.4 FIRST 90 DAYS MILESTONES
+
+Week 2-4:
+- Weekly 1-on-1 meetings with manager
+- Complete all required training modules
+- Meet with skip-level manager (manager's manager)
+- Attend department meetings
+
+30-Day Check-in:
+- Formal meeting with HR and manager
+- Review progress on initial goals
+- Address any adjustment issues
+- Verify benefits enrollment is complete
+
+60-Day Check-in:
+- Progress review with manager
+- Adjust goals if necessary
+- Identify development opportunities
+- Expand project responsibilities
+
+90-Day Review:
+- Formal performance review
+- Evaluation of probationary period
+- Decision on continued employment
+- Set goals for next quarter
+- Discussion of career development path
+
+================================================================================
+SECTION 2: PERFORMANCE REVIEW PROCEDURES
+================================================================================
+
+2.1 REVIEW SCHEDULE
+
+Annual Performance Review Cycle:
+- Mid-Year Review: June 1 - July 15
+- Annual Review: December 1 - January 15
+
+Timeline:
+Week 1: HR announces review period and deadlines
+Week 2-3: Employees complete self-assessments
+Week 3-4: Managers complete evaluations
+Week 5: Calibration meetings
+Week 6: Review meetings with employees
+Week 7: HR processes documentation and compensation changes
+
+2.2 SELF-ASSESSMENT PROCESS (Employee)
+
+Instructions for Employees:
+1. Log into HR portal and access self-assessment form
+2. Review your goals and objectives from last review period
+3. Complete all sections:
+   - Accomplishments and achievements
+   - Progress on goals
+   - Challenges faced and how overcome
+   - Areas for improvement
+   - Career development interests
+   - Goals for next period
+   
+4. Provide specific examples and metrics where possible
+5. Submit self-assessment at least 48 hours before review meeting
+6. Prepare questions and discussion points for meeting
+
+Deadline: Submit by end of Week 3 of review cycle
+
+2.3 MANAGER EVALUATION PROCESS
+
+Step 1: Review employee's self-assessment
+Step 2: Gather input from:
+- Direct observations
+- Project outcomes and deliverables
+- Peer feedback (if 360 review)
+- Attendance and punctuality records
+- Any documented incidents or achievements
+
+Step 3: Complete evaluation form in HR system:
+- Rate performance on each competency (1-5 scale)
+- Overall performance rating (1-5 scale)
+- Written comments for each section
+- Goals and development plan for next period
+- Promotion or compensation change recommendations
+
+Step 4: Submit evaluation for calibration
+
+2.4 PERFORMANCE RATING SCALE
+
+5 - EXCEPTIONAL
+- Consistently exceeds expectations in all areas
+- Demonstrates leadership beyond role requirements
+- Makes significant impact on company success
+- Serves as role model for others
+- Typical distribution: ~5% of employees
+
+4 - EXCEEDS EXPECTATIONS
+- Frequently surpasses goals and objectives
+- Takes initiative beyond assigned duties
+- Delivers high-quality work consistently
+- Demonstrates growth and development
+- Typical distribution: ~15% of employees
+
+3 - MEETS EXPECTATIONS
+- Reliably achieves all goals and objectives
+- Performs all job responsibilities competently
+- Meets quality and deadline requirements
+- Contributes positively to team
+- Typical distribution: ~70% of employees
+
+2 - NEEDS IMPROVEMENT
+- Sometimes meets expectations but inconsistent
+- Requires additional supervision or support
+- Has gaps in skills or performance
+- May require performance improvement plan
+- Typical distribution: ~8% of employees
+
+1 - UNSATISFACTORY
+- Rarely meets expectations
+- Significant performance deficiencies
+- Improvement plan required
+- May lead to termination if no improvement
+- Typical distribution: ~2% of employees
+
+2.5 CALIBRATION MEETING
+
+Purpose: Ensure fairness and consistency in ratings across the organization
+
+Participants:
+- Department managers
+- HR Business Partner
+- Department VP or Director
+
+Process:
+1. Review distribution of ratings across department
+2. Discuss employees with ratings of 4, 5, 1, and 2
+3. Challenge ratings that seem inconsistent
+4. Review promotion and compensation recommendations
+5. Ensure ratings align with demonstrated performance
+6. Adjust ratings if necessary for fairness
+
+Duration: 2-3 hours per department
+
+2.6 PERFORMANCE REVIEW MEETING
+
+Preparation (Manager):
+- Schedule 60-minute meeting in private location
+- Review finalized evaluation
+- Prepare specific examples and feedback
+- Review employee's self-assessment
+- Have development resources ready
+
+Meeting Agenda:
+1. Opening (5 min)
+   - Set positive tone
+   - Outline meeting structure
+   
+2. Employee Self-Assessment Discussion (10 min)
+   - Employee shares key points
+   - Manager asks clarifying questions
+   
+3. Performance Review (25 min)
+   - Review each competency area
+   - Share specific examples
+   - Discuss rating and rationale
+   - Share overall performance rating
+   
+4. Development Discussion (10 min)
+   - Strengths to leverage
+   - Areas for growth
+   - Development opportunities
+   - Training or resources needed
+   
+5. Goal Setting (10 min)
+   - Review and agree on goals for next period
+   - Ensure goals are SMART (Specific, Measurable, Achievable, Relevant, Time-bound)
+   - Document action steps
+   
+6. Closing (5 min)
+   - Compensation changes (if applicable)
+   - Next steps
+   - Questions and concerns
+   - Employee acknowledgment
+
+Post-Meeting:
+- Employee signs review acknowledgment in HR system
+- Manager documents meeting notes
+- HR processes compensation changes
+
+2.7 PERFORMANCE IMPROVEMENT PLAN (PIP)
+
+When Required:
+- Performance rating of 2 (Needs Improvement) or 1 (Unsatisfactory)
+- Consistent failure to meet job expectations
+- Behavioral issues affecting performance
+
+PIP Process:
+1. Meeting with employee, manager, and HR
+2. Document specific performance deficiencies
+3. Set clear, measurable improvement goals
+4. Define timeline (typically 30, 60, or 90 days)
+5. Identify support and resources to be provided
+6. Schedule regular check-in meetings (weekly)
+7. Document progress at each check-in
+
+Outcomes:
+- Successful completion: Return to normal performance management
+- Partial improvement: Extend PIP with modified goals
+- No improvement: Termination recommended
+
+Documentation: All PIP documents maintained in employee file
+
+================================================================================
+SECTION 3: LEAVE REQUEST PROCEDURES
+================================================================================
+
+3.1 ANNUAL LEAVE REQUEST PROCESS
+
+Step 1: Employee Planning
+- Check leave balance in HR portal
+- Review team calendar for conflicts
+- Consider business needs and project deadlines
+- Plan at least 2 weeks in advance when possible
+
+Step 2: Submit Request
+- Log into HR portal: https://hr.company.com
+- Navigate to "Leave Request"
+- Select leave type: Annual Leave
+- Enter start and end dates
+- Add notes if necessary
+- Submit request
+
+Step 3: Manager Review
+- Manager receives email notification
+- Reviews team calendar and business needs
+- Approves or denies within 3 business days
+- If denied, provides reason and suggests alternative dates
+
+Step 4: Confirmation
+- Employee receives email notification of decision
+- Approved leave automatically added to team calendar
+- Employee receives calendar invitation
+- HR system automatically deducts from leave balance
+
+Emergency Leave Requests:
+- Call or text manager as soon as possible
+- Submit request in HR portal when able
+- Manager will approve retroactively
+- May require explanation for last-minute request
+
+3.2 SICK LEAVE NOTIFICATION PROCESS
+
+Same-Day Sick Leave:
+1. Notify manager before 10:00 AM (call, text, or email)
+2. Message should include:
+   - That you're taking sick leave
+   - Expected duration (one day or longer)
+   - Whether you'll be reachable
+   - Any urgent matters that need coverage
+   
+3. Log sick leave in HR portal same day or next business day
+4. Manager marks employee as "Out Sick" in team calendar
+
+Extended Sick Leave (more than 3 days):
+1. Follow same-day notification process
+2. Provide daily or every-other-day updates to manager
+3. Medical certificate required for return to work
+4. Submit medical certificate to HR (confidential)
+5. Discuss any needed accommodations upon return
+
+Medical Appointments:
+- Request time off through HR portal at least 48 hours in advance
+- Can use sick leave or flexible hours
+- Only brief appointments require notification, not formal approval
+- Extended appointments (half-day or more) should be formally requested
+
+3.3 PARENTAL LEAVE REQUEST PROCESS
+
+Maternity Leave:
+1. Notify manager and HR as soon as possible (ideally 3 months before due date)
+2. Complete Parental Leave Request Form in HR portal
+3. Provide expected due date and desired leave start date
+4. HR will schedule meeting to review:
+   - Leave duration (16 weeks)
+   - Benefits continuation
+   - Return to work planning
+   - FMLA paperwork if applicable
+   
+5. Submit medical documentation of pregnancy
+6. HR processes request and confirms leave dates
+7. Two weeks before leave, meet with manager for transition planning
+8. Upon baby's arrival, notify HR with birth date
+9. Four weeks before planned return, HR contacts to confirm return date
+
+Paternity/Adoption Leave:
+1. Notify manager and HR at least 4 weeks before expected leave
+2. Complete Parental Leave Request Form
+3. Provide expected arrival/placement date
+4. Review leave entitlement (2 weeks paternity, 12 weeks adoption)
+5. Submit birth certificate or adoption papers to HR after event
+6. Coordinate return date with manager and HR
+
+3.4 OTHER LEAVE TYPES
+
+Bereavement Leave:
+- Notify manager immediately
+- Contact HR within 24 hours
+- Provide relationship to deceased
+- Leave granted immediately, paperwork can follow
+- Death certificate may be requested for records
+
+Jury Duty:
+- Notify manager and HR as soon as summons received
+- Provide copy of jury summons to HR
+- Update manager daily on jury duty status
+- Submit any court payment documentation to HR
+- If dismissed early, expected to return to work
+
+Military Leave:
+- Notify manager and HR as soon as orders received
+- Provide copy of military orders to HR
+- HR will coordinate USERRA compliance
+- Benefits continuation arranged by HR
+- Reemployment rights protected by law
+
+Personal Leave (Unpaid):
+- Submit written request to manager and HR at least 30 days in advance
+- Include:
+  * Reason for leave
+  * Requested duration
+  * Work transition plan
+- Manager and HR review and approve/deny
+- Approval requires exhausting all paid leave first
+- Discuss benefits continuation with HR
+
+================================================================================
+SECTION 4: SALARY AND COMPENSATION PROCEDURES
+================================================================================
+
+4.1 ANNUAL MERIT INCREASE PROCESS
+
+Timeline: January - February
+
+Week 1-2 (January):
+- HR completes market analysis
+- Leadership determines overall merit budget
+- Budget allocated to departments based on headcount and performance distribution
+
+Week 3-4 (January):
+- Managers receive merit guidelines and budget allocation
+- Managers prepare merit recommendations based on:
+  * Performance review ratings
+  * Current salary vs. market range
+  * Internal equity
+  * Time since last increase
+  
+Week 5 (January):
+- Managers submit recommendations to HR
+- HR reviews for compliance with guidelines and budget
+- Meetings held to discuss any discrepancies
+
+Week 6 (February):
+- Final approvals from department VPs
+- HR processes merit increases in payroll system
+- Effective date: First pay period in February
+
+Week 7-8 (February):
+- Managers communicate increases to employees
+- Written confirmation sent by HR
+- Updated compensation information in employee portal
+
+4.2 PROMOTION PROCESS
+
+Step 1: Manager Identifies Candidate
+- Evaluates readiness for next level
+- Reviews competencies and performance history
+- Discusses with HR Business Partner
+
+Step 2: Promotion Proposal
+Manager prepares written proposal including:
+- Employee name and current role/level
+- Proposed new role/level
+- Business justification
+- Performance evidence
+- Skills demonstration
+- Impact on team and organization
+- Proposed compensation increase
+
+Step 3: HR Review
+- Verify meets criteria for new level
+- Assess internal equity impact
+- Confirm budget availability
+- Market data analysis for new role
+
+Step 4: Approval Process
+- Department VP approval
+- HR Director approval
+- CFO approval (for grade 5 and above)
+
+Step 5: Communication
+- Manager meets with employee to announce promotion
+- Discuss new responsibilities and expectations
+- Review compensation changes
+- HR sends written confirmation
+- Update in HRIS effective next month 1st
+
+Typical Promotion Increase: 8-15% of base salary
+
+4.3 OFF-CYCLE ADJUSTMENTS
+
+Reasons for Off-Cycle Adjustments:
+- Market correction (salary significantly below market)
+- Retention risk (competing offer)
+- Material change in role responsibilities
+- Internal equity correction
+- Acquisition of new critical skills
+
+Process:
+1. Manager discusses situation with HR Business Partner
+2. Gather supporting data:
+   - Market analysis
+   - Performance evidence
+   - Competing offer details (if applicable)
+   - Internal comparisons
+   
+3. Manager prepares business case
+4. Submit for approval:
+   - HR Director
+   - CFO
+   - CEO (for senior roles or large increases)
+   
+5. If approved:
+   - Process effective 1st of following month
+   - Manager communicates to employee
+   - HR sends written confirmation
+
+Timing: Typically takes 2-4 weeks from submission to approval
+
+4.4 SALARY HISTORY AND RECORDS
+
+Employee Access:
+- View current salary in employee self-service portal
+- View salary history for last 5 years
+- Access annual compensation statements
+
+Manager Access:
+- View current salaries of direct reports
+- Access to team's salary history
+- Market data for roles in department
+
+Confidentiality:
+- All salary information is confidential
+- Disclosure of another employee's salary is grounds for discipline
+- Questions about pay should be directed to HR or manager
+
+================================================================================
+SECTION 5: TERMINATION PROCEDURES
+================================================================================
+
+5.1 VOLUNTARY RESIGNATION
+
+Employee Responsibilities:
+1. Provide written resignation letter to manager
+2. Minimum notice period: 2 weeks (4 weeks recommended for senior roles)
+3. Include last working date in resignation letter
+4. Maintain professionalism during notice period
+
+Manager Responsibilities:
+1. Accept resignation letter and forward to HR immediately
+2. Schedule exit interview with HR
+3. Create knowledge transfer plan
+4. Inform team appropriately
+5. Ensure return of company property
+
+HR Responsibilities:
+1. Schedule exit interview
+2. Process resignation in HRIS
+3. Calculate final pay including unused vacation
+4. Prepare COBRA information
+5. Provide information on final paycheck, benefits end date, 401(k) options
+6. Arrange return of company property
+7. Deactivate system access on last day
+
+Knowledge Transfer:
+- Document critical processes and procedures
+- Train replacement or team members
+- Complete handoff of active projects
+- Provide contact information for outstanding items
+
+Last Day:
+- Return laptop, phone, ID badge, keys, credit card
+- Remove personal items
+- Exit interview with HR
+- System access deactivated end of business day
+- Final paycheck issued according to state law
+
+5.2 INVOLUNTARY TERMINATION
+
+Pre-Termination Requirements:
+- Performance Improvement Plan (PIP) typically precedes termination for performance
+- Documentation of performance issues
+- Evidence of coaching and support provided
+- Approval chain:
+  * Manager recommendation
+  * HR Business Partner review
+  * Department VP approval
+  * HR Director approval
+  * Legal review (for potential risk cases)
+
+Termination Meeting:
+Participants:
+- Employee's manager
+- HR representative
+- Optional: Additional witness
+
+Meeting Process:
+1. Schedule meeting at end of day (ideally Friday)
+2. Manager delivers termination message (brief, clear, respectful)
+3. State reason for termination
+4. HR explains final pay, benefits, and next steps
+5. Keep meeting short (15-20 minutes)
+6. Escort employee to collect personal belongings
+7. Collect company property
+8. Escort from building
+
+Immediate Actions:
+- Deactivate all system access immediately
+- Disable ID badge
+- Notify IT, Security, Facilities
+- Change passwords for shared accounts
+- Notify team appropriately
+
+Post-Termination:
+- Process final paycheck according to state law
+- Send COBRA information within 14 days
+- Provide information on 401(k) rollover options
+- Mail any remaining personal items if not collected
+- Document termination in employee file
+
+5.3 LAYOFF/REDUCTION IN FORCE
+
+Process:
+1. Business decision requiring headcount reduction
+2. Executive team determines scope and criteria
+3. HR works with leadership to select impacted positions
+4. Legal review of selection criteria
+5. Prepare severance packages
+6. Schedule notification meetings
+
+Notification Meeting:
+- Manager and HR meet with affected employee
+- Deliver message clearly and compassionately
+- Explain that position is eliminated (not performance-based)
+- Review severance package
+- Explain benefits continuation
+- Provide outplacement services information
+- Answer questions
+
+Severance Package Typically Includes:
+- 2 weeks pay per year of service (minimum 4 weeks)
+- Health benefits continuation for severance period
+- Outplacement services (resume, job search, coaching)
+- Accrued vacation payout
+- Pro-rated bonus (if close to payout date)
+
+Post-Layoff Support:
+- Access to outplacement services for 6 months
+- Alumni network invitation
+- Positive reference provided
+- Consideration for rehire if positions become available
+
+================================================================================
+SECTION 6: INTERNAL TRANSFER PROCEDURES
+================================================================================
+
+6.1 ELIGIBILITY
+
+Employees are eligible for internal transfer if:
+- At least 6 months in current position
+- Meeting or exceeding performance expectations
+- Not currently on performance improvement plan
+- No active disciplinary issues
+
+6.2 INTERNAL TRANSFER PROCESS
+
+Step 1: Self-Assessment and Preparation
+- Review internal job postings on career portal
+- Assess qualifications and interest
+- Update internal resume/profile
+- Prepare for potential career change
+
+Step 2: Manager Discussion
+- Employee should discuss transfer interest with current manager
+- Provide context for interest in new role
+- This step is recommended but not required
+- Manager should be supportive of employee development
+
+Step 3: Application
+- Apply through internal career portal
+- Complete application and attach updated resume
+- System automatically notifies current manager
+- Application routed to hiring manager
+
+Step 4: Interview Process
+- Hiring manager reviews application
+- If interested, schedules interview
+- Standard interview process applies
+- May include multiple rounds
+
+Step 5: Selection Decision
+- Hiring manager makes selection decision
+- If selected, hiring manager contacts current manager
+- Current and new managers discuss transition timing
+- Typically 2-4 weeks transition period
+
+Step 6: Transition
+- Employee and managers create transition plan
+- Knowledge transfer to backfill or team
+- Move date confirmed
+- HR updates records and systems
+- Welcome process in new department
+
+6.3 LATERAL VS. PROMOTIONAL TRANSFERS
+
+Lateral Move:
+- Same job level and pay grade
+- Typically no compensation change
+- Good for skill development and career exploration
+
+Promotional Move:
+- Higher job level and pay grade
+- Salary increase typically 8-15%
+- Must demonstrate readiness for next level
+
+6.4 MANAGER RESPONSIBILITIES
+
+Current Manager:
+- Support employee development
+- Don't block reasonable transfer opportunities
+- Provide honest feedback if asked by hiring manager
+- Work collaboratively on transition timing
+
+Hiring Manager:
+- Treat internal and external candidates fairly
+- Contact current manager after selection
+- Work collaboratively on transition plan
+- Provide onboarding for new team member
+
+================================================================================
+SECTION 7: GRIEVANCE AND COMPLAINT PROCEDURES
+================================================================================
+
+7.1 INFORMAL RESOLUTION (Step 1)
+
+When to Use:
+- First step for most workplace concerns
+- Issues with manager, coworker, or working conditions
+- Before formal complaint
+
+Process:
+1. Employee discusses concern directly with involved party if comfortable
+2. If not resolved or not comfortable with direct discussion, speak with immediate manager
+3. Clearly explain the issue and desired resolution
+4. Manager has 5 business days to:
+   - Investigate situation
+   - Speak with relevant parties
+   - Propose resolution
+   - Follow up with employee
+
+Documentation:
+- Manager documents discussion and resolution in file
+- If resolved, no further action needed
+
+If Not Resolved:
+- Proceed to formal complaint process
+
+7.2 FORMAL COMPLAINT PROCESS (Step 2)
+
+When to Use:
+- Informal resolution was unsuccessful
+- Serious policy violations
+- Harassment or discrimination concerns
+- Retaliation
+- Issue involves direct manager
+
+How to File:
+1. Submit written complaint to HR at hr@company.com or through HR portal
+2. Include:
+   - Your name and contact information
+   - Description of the issue
+   - Names of people involved
+   - Dates and times of incidents
+   - Witnesses (if any)
+   - Steps already taken to resolve
+   - Desired outcome
+
+HR Investigation Process:
+1. HR acknowledges receipt within 2 business days
+2. HR assigns investigator (HR Business Partner or external if needed)
+3. Investigation conducted within 10 business days:
+   - Interview complainant
+   - Interview accused party
+   - Interview witnesses
+   - Review relevant documents, emails, records
+   - Maintain confidentiality to extent possible
+   
+4. HR prepares investigation report with findings:
+   - Substantiated: Evidence supports complaint
+   - Unsubstantiated: Insufficient evidence
+   - False complaint: Evidence shows complaint was intentionally false
+
+7.3 RESOLUTION MEETING (Step 3)
+
+If Complaint is Substantiated:
+- HR meets with complainant to share findings (no unnecessary details)
+- Action plan developed:
+  * Disciplinary action for accused party if appropriate
+  * Policy changes if needed
+  * Training or coaching
+  * Separation of parties if needed
+  * Monitoring plan
+  
+- Follow-up meeting scheduled for 30 days later to ensure resolution
+
+If Complaint is Unsubstantiated:
+- HR explains insufficient evidence was found
+- Does not mean complaint was false or that employee shouldn't have raised concern
+- Any ongoing issues should be reported
+- No retaliation will be tolerated
+
+If Complaint is False:
+- Disciplinary action may be taken against complainant
+- False complaints undermine process and harm reputations
+
+7.4 APPEAL PROCESS (Step 4)
+
+If Employee is Dissatisfied with Resolution:
+1. Submit written appeal to HR Director within 10 business days
+2. Include:
+   - Original complaint summary
+   - Reason for appeal
+   - Additional information or evidence
+   - Desired outcome
+
+HR Director Review:
+- Reviews investigation file
+- May conduct additional investigation
+- Makes final determination within 15 business days
+- Decision is final
+
+Retaliation Prohibition:
+- Retaliation against anyone who files complaint or participates in investigation is strictly prohibited
+- Retaliation is grounds for immediate termination
+- Report any retaliation immediately to HR
+
+7.5 SPECIAL SITUATIONS
+
+Harassment or Discrimination:
+- Can be reported directly to HR (skip manager if manager is involved)
+- Handled with priority and urgency
+- May involve external investigator
+- Legal counsel may be involved
+
+Whistleblower Complaints:
+- Illegal or unethical conduct
+- Anonymous hotline available: 1-800-XXX-XXXX
+- Protected from retaliation by law
+- Investigated by Legal and Compliance team
+
+Safety Concerns:
+- Report immediately to manager and Facilities
+- Don't wait for formal process
+- Employee safety is top priority
+
+================================================================================
+SECTION 8: HR CONTACT INFORMATION AND RESOURCES
+================================================================================
+
+8.1 HR TEAM CONTACTS
+
+General HR Inquiries:
+Email: hr@company.com
+Phone: (555) 123-4567
+Office: Building A, 2nd Floor
+
+HR Business Partners (by department):
+- Engineering: Jane Smith, jane.smith@company.com
+- Sales: Mike Johnson, mike.johnson@company.com
+- Marketing: Sarah Lee, sarah.lee@company.com
+- Operations: David Chen, david.chen@company.com
+
+Benefits Team:
+Email: benefits@company.com
+Phone: (555) 123-4568
+
+Payroll Team:
+Email: payroll@company.com
+Phone: (555) 123-4569
+
+Talent Acquisition:
+Email: recruiting@company.com
+Phone: (555) 123-4570
+
+8.2 IMPORTANT LINKS
+
+HR Portal: https://hr.company.com
+Benefits Portal: https://benefits.company.com
+Internal Career Portal: https://careers.company.com
+Learning Management System: https://learning.company.com
+Employee Assistance Program: https://eap.company.com (24/7)
+
+8.3 OFFICE HOURS
+
+HR Department:
+Monday - Friday: 8:30 AM - 5:30 PM
+Closed on company holidays
+
+Drop-in Hours (no appointment needed):
+Tuesday and Thursday: 1:00 PM - 4:00 PM
+
+Appointments:
+Schedule through HR portal or call (555) 123-4567
+
+8.4 EMERGENCY CONTACTS
+
+After-Hours HR Emergency (serious issues only):
+HR Director cell: (555) 123-4571
+
+Security Emergency:
+Campus Security: (555) 123-5000 or x5000 from any desk phone
+
+Medical Emergency:
+Call 911
+Then notify Security and HR
+
+Employee Assistance Program (24/7):
+Phone: 1-800-EAP-HELP
+Online: https://eap.company.com
+
+================================================================================
+
+This manual is a guide to HR procedures. For specific policy information, refer to the Employee Handbook and individual policy documents. Procedures may be updated periodically. Current version always available on HR portal.
+
+For questions about any procedures, contact your HR Business Partner or email hr@company.com.

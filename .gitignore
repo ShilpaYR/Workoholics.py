@@ -1,0 +1,18 @@
+# Python specific ignores
+__pycache__/
+*.pyc
+.venv/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# VS Code specific ignores
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+!.vscode/tasks.json
+
+# Operating System files
+.DS_Store
+Thumbs.db
