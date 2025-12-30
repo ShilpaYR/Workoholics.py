@@ -48,29 +48,6 @@ The backend is implemented using **Flask-based microservices**, while the fronte
 
 ---
 
-## Repository Structure
-
-```
-Workoholics-Project/
-│
-├── Backend/
-│   ├── auth_service/
-│   ├── rag_service/
-│   ├── hr_service/
-│   ├── applicant_service/
-│   ├── requirements.txt
-│   └── .env.example
-│
-├── Frontend/
-│   ├── src/
-│   ├── public/
-│   └── package.json
-│
-└── README.md
-```
-
----
-
 ## How to Run the Project Locally
 
 ### Prerequisites
@@ -86,8 +63,8 @@ Workoholics-Project/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/ShilpaYR/Workoholics-Project.git
-cd Workoholics-Project
+git clone https://github.com/ShilpaYR/Workoholics.py.git
+cd Workoholics.py
 ```
 
 ---
@@ -97,8 +74,7 @@ cd Workoholics-Project
 ```bash
 cd Backend
 python -m venv venv
-source venv/bin/activate   # macOS/Linux
-venv\Scripts\activate      # Windows
+source venv/bin/activate
 pip install -r requirements.txt
 ```
 
@@ -117,18 +93,7 @@ DATABASE_URL=sqlite:///hr_portal.db
 ### Start Backend Services
 
 ```bash
-python auth_service/app.py
-python rag_service/app.py
-python hr_service/app.py
-python applicant_service/app.py
-```
-
----
-
-### RAG Document Ingestion
-
-```bash
-python rag_service/ingest.py --docs ./data/hr_policies/
+python main.py
 ```
 
 ---
